@@ -26,3 +26,5 @@ The graph tells us which bikes had the most trips that might require repairs soo
 
 ## Summary of the results
 Looking at the graphs, its fair to say that more males are part of the ride sharing program compared to other genders. Also, there are a greater number of subscribers from the gender male compared to the other genders. There are peak hours when the ride sharing program is used a lot during the week. These hours are early morning and after work. Another visualization that can be looked at could be just for the peak hours. Such a visualization could show the specific times during the peak hours when the ride sharing program is used the most. Another visualization that we can do could be done for the distance from the start station to the end station to find the routes with the highest distance. Once we know off these distances, we can assign the bikes with the lowest bike sharing hours for these routes to prevent the overworking of bikes that already have high bike sharing hours
+
+[link to dashboard](https://public.tableau.com/profile/maaz.ahmed3945#!/vizhome/Bikesharinganalysis/Bikesharing?publish=yes)
